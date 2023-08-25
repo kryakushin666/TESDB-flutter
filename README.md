@@ -1,16 +1,11 @@
-# excel_app
+# TESDB(Transferring an Excel schedule to a database)
+## Features
+An application for transferring a schedule from Excel to a database. The schedule must be exported from the "Хронограф 3.0" application as an Excel spreadsheet.
 
-A new Flutter project.
+> :warning: The application may output an incorrect result when you use data exported not from the "Хронограф 3.0".
 
-## Getting Started
+## Usage
+> :warning: Before using, run the command "flutter pub get". 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+![Screenshot](https://i.imgur.com/l4HUTCp.png)
